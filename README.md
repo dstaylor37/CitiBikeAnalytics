@@ -1,2 +1,2 @@
 # CitiBikeAnalytics
-Project looking at CitiBike Programmatic data
+Project looking at CitiBike Program Data
